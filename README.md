@@ -6,7 +6,9 @@ It uses the Keras MNIST Handwritten Digit Recognition neural network to convert 
 
 It's accuracy is the same as that of the Digit Recognition model which is approximately 99%.
 
-![Image of unsolve sudoku]
-Sample Sudokus/s2.png
+Unsolved Sudoku and Solved Sudoku:
+
+<img src="s2.png">                          <img src="s2-solved.png">
+                         
 
 I used the following model as a reference: https://levelup.gitconnected.com/solving-a-sudoku-puzzle-using-deep-learning-and-backtracking-algorithm-c6cef475ae3
